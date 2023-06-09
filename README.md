@@ -5,4 +5,4 @@ Summary of all Stochastic Analysis projects that i have done
 
 2) [Ornstein-Uhlenbeck Process](https://github.com/AndreasAvgou/Stochastic-Analysis-Process/tree/main/Ornstein%20Uhlenbeck%20Process)
 3) [Smoothing Moving Average Times Series](https://github.com/AndreasAvgou/Stochastic-Analysis-Process/tree/main/Smoothing%20Moving%20Average%20Times%20Series)
-
+4) [Wiener Process](https://github.com/AndreasAvgou/Stochastic-Analysis-Process/tree/main/Wiener%20Process)
